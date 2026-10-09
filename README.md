@@ -17,11 +17,10 @@ Projet conçu en équipe avec : [prénoms des coéquipiers] Victor Deschênes, K
 
 ## Le personnage principal
 
-- Description (physique et psychologique) : ... Calvitie, passionné par la musique
+- Description (physique et psychologique) : ... Calvitie, passionné par la musique.Il est très arrogant et croit qu'il n'a pas besoin de pratiquer la guitare. Il n'apprécie pas les bassistes.
 - Son désir (ce qu'il veut) : ... Devenir le meilleur rockstar du monde
 - Son besoin (ce qu'il lui faut) : ... Être le champion de la bataille de bandes
-- Son évolution : ...  Il est très arrogant et croit qu'il n'a pas besoin de pratiquer la guitare.
-
+- Son évolution : ...  Il joue la basse et la guitare.
 ## L'univers
 
 - Où et quand se passe l'histoire : ... Japon- Grande-Bretagne vers 1970
